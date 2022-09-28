@@ -27,7 +27,7 @@ jobs:
     - name: 'Upload Artifact'
       uses: actions/upload-artifact@v3
       with:
-        name: my-artifact
+        name: UrlEncoderNugetPackages
         path: UrlEncoder/nupkg/*.nupkg
         retention-days: 1
         if-no-files-found: error
