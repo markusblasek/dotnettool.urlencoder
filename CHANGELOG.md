@@ -1,6 +1,6 @@
 # Release Notes
 
-## V1.1.0 (WIP)
+## V1.1.0 (2022-09-28)
 
 ### Features
 + Read in values from stdin
