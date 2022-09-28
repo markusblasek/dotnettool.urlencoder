@@ -2,7 +2,7 @@
 
 namespace UrlEncoder
 {
-    [Verb("encode", true, new[] { "e", "en", "enc" }, HelpText = "Encode a value")]
+    [Verb("encode", true, new[] { "e", "en", "enc" }, HelpText = "URL encode a value")]
     class EncodeCommandLineArgument
     {
         [Option('i', "input", Required = true, HelpText = "Value to encode")]
