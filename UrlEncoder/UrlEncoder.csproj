@@ -17,6 +17,9 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/markusblasek/dotnettool.urlencoder</RepositoryUrl>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageTags>urlencode;urldecode;dotnet tool</PackageTags>
+    <Authors>Markus Blasek</Authors>
+    <Company />
   </PropertyGroup>
 
   <ItemGroup>
