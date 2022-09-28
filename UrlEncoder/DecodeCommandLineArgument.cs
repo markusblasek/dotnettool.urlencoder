@@ -3,9 +3,11 @@
 namespace UrlEncoder
 {
     [Verb("decode", false, new[] { "d", "de", "dec" }, HelpText = "Decode an url encoded value")]
-    class DecodeCommandLineArgument
+    public class DecodeCommandLineArgument : IReadFromStdInOption
     {
-        [Option('i', "input", Required = true, HelpText = "Value to decode")]
+        [Option('i', "input", HelpText = "Value to decode")]
         public string? Input { get; set; }
+
+        public bool ReadFromStdIn { get; set; }
     }
 }
