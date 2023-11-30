@@ -1,5 +1,10 @@
 # Release Notes
 
+## V1.2.0 (WIP)
+
+### Features
++ Support .NET 8
+
 ## V1.1.0 (2022-09-28)
 
 ### Features
