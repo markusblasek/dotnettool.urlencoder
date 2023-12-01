@@ -7,10 +7,10 @@ URL encodes an string and decodes an url encoded string.
 The MIT License. See the [license](https://github.com/markusblasek/dotnettool.urlencoder/blob/main/LICENSE) file for details.
 
 ## Install
-`$ dotnet tool install --global UrlEncoder --version 1.1.0`
+`$ dotnet tool install --global UrlEncoder --version 1.2.0`
 
 ### Install from local nuget
-`$ dotnet tool install --global --add-source "#path_to_folder#" urlencoder --version 1.1.0`
+`$ dotnet tool install --global --add-source "#path_to_folder#" urlencoder --version 1.2.0`
 
 ## Usage
 ```bash
