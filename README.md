@@ -1,4 +1,8 @@
-# UrlEncoder
+ed# UrlEncoder
+
+[![](https://img.shields.io/nuget/v/UrlEncoder.svg?style=for-the-badge)](https://www.nuget.org/packages/UrlEncoder/)
+[![](https://img.shields.io/github/actions/workflow/status/markusblasek/dotnettool.urlencoder/dotnet.yml?style=for-the-badge)](https://github.com/markusblasek/dotnettool.urlencoder/actions/workflows/dotnet.yml)
+[![](https://img.shields.io/nuget/dt/UrlEncoder.svg?style=for-the-badge)](https://www.nuget.org/packages/UrlEncoder/)
 
 URL encodes an string and decodes an url encoded string.
 
